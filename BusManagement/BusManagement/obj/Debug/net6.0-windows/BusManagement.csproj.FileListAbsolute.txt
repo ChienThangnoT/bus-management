@@ -1,0 +1,378 @@
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.exe
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\appsettings.json
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.deps.json
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.runtimeconfig.json
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.pdb
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.csproj.AssemblyReference.cache
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.csproj.GenerateResource.cache
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AssemblyInfoInputs.cache
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AssemblyInfo.cs
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.csproj.CoreCompileInputs.cache
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\obj\Debug\net6.0-windows\refint\BusManagement.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.pdb
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.genruntimeconfig.cache
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\obj\Debug\net6.0-windows\ref\BusManagement.dll
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.exe
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\appsettings.json
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.deps.json
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.runtimeconfig.json
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.dll
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.pdb
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.csproj.AssemblyReference.cache
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.Login.resources
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.Management.resources
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.csproj.GenerateResource.cache
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AssemblyInfoInputs.cache
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AssemblyInfo.cs
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.csproj.CoreCompileInputs.cache
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.dll
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\refint\BusManagement.dll
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.pdb
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.genruntimeconfig.cache
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\ref\BusManagement.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Services.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Services.pdb
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.Login.resources
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.Management.resources
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.RoutesManagement.resources
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.csproj.CopyComplete
+E:\Learn\Learn_k5\PRN211\project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AddRoutes.resources
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.exe
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\appsettings.json
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.deps.json
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.runtimeconfig.json
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.pdb
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Services.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Services.pdb
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.csproj.AssemblyReference.cache
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AddRoutes.resources
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.DriverManagement.resources
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.Login.resources
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.Management.resources
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.RoutesManagement.resources
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.csproj.GenerateResource.cache
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AssemblyInfoInputs.cache
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AssemblyInfo.cs
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.csproj.CoreCompileInputs.cache
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.csproj.CopyComplete
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\refint\BusManagement.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.pdb
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.genruntimeconfig.cache
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\ref\BusManagement.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AddDriver.resources
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.Properties.Resources.resources
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.UpdateDriver.resources
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.csproj.AssemblyReference.cache
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AccountManagement.resources
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AddAccount.resources
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AddBus.resources
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AddDriver.resources
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AddRoutes.resources
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AddTransportUnit.resources
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.BusManage.resources
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.DriverManagement.resources
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.Login.resources
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.Management.resources
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.Properties.Resources.resources
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.RoutesManagement.resources
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.TransportUnitManagement.resources
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.UpdateAccount.resources
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.UpdateBus.resources
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.UpdateDriver.resources
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.UpdateRoutes.resources
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.UpdateTransportUnit.resources
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.csproj.GenerateResource.cache
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AssemblyInfoInputs.cache
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AssemblyInfo.cs
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.csproj.CoreCompileInputs.cache
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\refint\BusManagement.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.pdb
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.exe
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\appsettings.json
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.deps.json
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.runtimeconfig.json
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.pdb
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Services.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\bin\Debug\net6.0-windows\Services.pdb
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.csproj.CopyComplete
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.genruntimeconfig.cache
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\BusManagement\obj\Debug\net6.0-windows\ref\BusManagement.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.exe
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\appsettings.json
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.deps.json
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.runtimeconfig.json
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.pdb
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Services.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\bin\Debug\net6.0-windows\Services.pdb
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.csproj.AssemblyReference.cache
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AccountManagement.resources
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AddAccount.resources
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AddBus.resources
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AddDriver.resources
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AddRoutes.resources
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AddTransportUnit.resources
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.BusManage.resources
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.DriverManagement.resources
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.Login.resources
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.Properties.Resources.resources
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.RoutesManagement.resources
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.TransportUnitManagement.resources
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.UpdateAccount.resources
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.UpdateBus.resources
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.UpdateDriver.resources
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.UpdateRoutes.resources
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.UpdateTransportUnit.resources
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.csproj.GenerateResource.cache
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AssemblyInfoInputs.cache
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AssemblyInfo.cs
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.csproj.CoreCompileInputs.cache
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.csproj.CopyComplete
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\refint\BusManagement.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.pdb
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.genruntimeconfig.cache
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\BusManagement\obj\Debug\net6.0-windows\ref\BusManagement.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.exe
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\appsettings.json
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.deps.json
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.runtimeconfig.json
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\BusManagement.pdb
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Azure.Core.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Azure.Identity.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Services.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\bin\Debug\net6.0-windows\Services.pdb
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.csproj.AssemblyReference.cache
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AccountManagement.resources
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AddAccount.resources
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AddBus.resources
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AddDriver.resources
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AddRoutes.resources
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AddTransportUnit.resources
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.BusManage.resources
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.DriverManagement.resources
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.Login.resources
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.Properties.Resources.resources
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.RoutesManagement.resources
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.TransportUnitManagement.resources
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.UpdateAccount.resources
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.UpdateBus.resources
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.UpdateDriver.resources
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.UpdateRoutes.resources
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.UpdateTransportUnit.resources
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.csproj.GenerateResource.cache
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.GeneratedMSBuildEditorConfig.editorconfig
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AssemblyInfoInputs.cache
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.AssemblyInfo.cs
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.csproj.CoreCompileInputs.cache
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.csproj.CopyComplete
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\refint\BusManagement.dll
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.pdb
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\BusManagement.genruntimeconfig.cache
+W:\Work Space\Bus_project\BusManagement\BusManagement\obj\Debug\net6.0-windows\ref\BusManagement.dll

@@ -1,0 +1,84 @@
+E:\Learn\Learn_k5\PRN211\project\BusManagement\Services\bin\Debug\net6.0\Services.deps.json
+E:\Learn\Learn_k5\PRN211\project\BusManagement\Services\bin\Debug\net6.0\Services.runtimeconfig.json
+E:\Learn\Learn_k5\PRN211\project\BusManagement\Services\bin\Debug\net6.0\Services.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\Services\bin\Debug\net6.0\Services.pdb
+E:\Learn\Learn_k5\PRN211\project\BusManagement\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+E:\Learn\Learn_k5\PRN211\project\BusManagement\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\Learn_k5\PRN211\project\BusManagement\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+E:\Learn\Learn_k5\PRN211\project\BusManagement\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+E:\Learn\Learn_k5\PRN211\project\BusManagement\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+E:\Learn\Learn_k5\PRN211\project\BusManagement\Services\obj\Debug\net6.0\Services.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\Services\obj\Debug\net6.0\refint\Services.dll
+E:\Learn\Learn_k5\PRN211\project\BusManagement\Services\obj\Debug\net6.0\Services.pdb
+E:\Learn\Learn_k5\PRN211\project\BusManagement\Services\obj\Debug\net6.0\Services.genruntimeconfig.cache
+E:\Learn\Learn_k5\PRN211\project\BusManagement\Services\obj\Debug\net6.0\ref\Services.dll
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\Services\bin\Debug\net6.0\Services.deps.json
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\Services\bin\Debug\net6.0\Services.runtimeconfig.json
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\Services\bin\Debug\net6.0\Services.dll
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\Services\bin\Debug\net6.0\Services.pdb
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\Services\obj\Debug\net6.0\Services.dll
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\Services\obj\Debug\net6.0\refint\Services.dll
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\Services\obj\Debug\net6.0\Services.pdb
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\Services\obj\Debug\net6.0\Services.genruntimeconfig.cache
+E:\Chuyen_nganh_5\PRN211_SE1738\BusManagement\bus-management\BusManagement\Services\obj\Debug\net6.0\ref\Services.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\Services\bin\Debug\net6.0\Services.deps.json
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\Services\bin\Debug\net6.0\Services.runtimeconfig.json
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\Services\bin\Debug\net6.0\Services.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\Services\bin\Debug\net6.0\Services.pdb
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\Services\obj\Debug\net6.0\Services.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\Services\obj\Debug\net6.0\refint\Services.dll
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\Services\obj\Debug\net6.0\Services.pdb
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\Services\obj\Debug\net6.0\Services.genruntimeconfig.cache
+D:\#HỌC ĐÊ\PRN211\Assignment\bus-management\BusManagement\Services\obj\Debug\net6.0\ref\Services.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\Services\obj\Debug\net6.0\Services.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\Services\obj\Debug\net6.0\refint\Services.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\Services\obj\Debug\net6.0\Services.pdb
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\Services\bin\Debug\net6.0\Services.deps.json
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\Services\bin\Debug\net6.0\Services.runtimeconfig.json
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\Services\bin\Debug\net6.0\Services.dll
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\Services\bin\Debug\net6.0\Services.pdb
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\Services\obj\Debug\net6.0\Services.genruntimeconfig.cache
+D:\#HỌC ĐÊ\PRN211\FinalMerge\BusManagement\Services\obj\Debug\net6.0\ref\Services.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\Services\bin\Debug\net6.0\Services.deps.json
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\Services\bin\Debug\net6.0\Services.runtimeconfig.json
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\Services\bin\Debug\net6.0\Services.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\Services\bin\Debug\net6.0\Services.pdb
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\Services\obj\Debug\net6.0\Services.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\Services\obj\Debug\net6.0\refint\Services.dll
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\Services\obj\Debug\net6.0\Services.pdb
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\Services\obj\Debug\net6.0\Services.genruntimeconfig.cache
+E:\Learn\Learn_k5\PRN211\project-clone\bus-management\BusManagement\Services\obj\Debug\net6.0\ref\Services.dll
+W:\Work Space\Bus_project\BusManagement\Services\bin\Debug\net6.0\Services.deps.json
+W:\Work Space\Bus_project\BusManagement\Services\bin\Debug\net6.0\Services.runtimeconfig.json
+W:\Work Space\Bus_project\BusManagement\Services\bin\Debug\net6.0\Services.dll
+W:\Work Space\Bus_project\BusManagement\Services\bin\Debug\net6.0\Services.pdb
+W:\Work Space\Bus_project\BusManagement\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+W:\Work Space\Bus_project\BusManagement\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+W:\Work Space\Bus_project\BusManagement\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+W:\Work Space\Bus_project\BusManagement\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+W:\Work Space\Bus_project\BusManagement\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+W:\Work Space\Bus_project\BusManagement\Services\obj\Debug\net6.0\Services.dll
+W:\Work Space\Bus_project\BusManagement\Services\obj\Debug\net6.0\refint\Services.dll
+W:\Work Space\Bus_project\BusManagement\Services\obj\Debug\net6.0\Services.pdb
+W:\Work Space\Bus_project\BusManagement\Services\obj\Debug\net6.0\Services.genruntimeconfig.cache
+W:\Work Space\Bus_project\BusManagement\Services\obj\Debug\net6.0\ref\Services.dll

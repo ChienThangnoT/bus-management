@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AccountManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddBus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddDriver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddRoutes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddTransportUnit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BusManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DriverManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoutesManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TransportUnitManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateBus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateDriver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateRoutes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateTransportUnit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
